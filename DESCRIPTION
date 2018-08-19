@@ -1,10 +1,10 @@
 Package: sds
 Type: Package
-Title: Functions and Exampels for "Statistics for Data Sciences using R"
+Title: Functions and Exampels for "Statistics for Data Science using R"
 Version: 1.0
 Date: 2012-03-31
 Author: Jim Harner
-Maintainer: <jharner@stat.wvu.edu>
+Maintainer: <ejharner@gmail.com>
 Description: Functions, examples and other software related to the book
-        "Statistics for Data Sciences using R"
+        "Statistics for Data Science using R"
 License: BSD

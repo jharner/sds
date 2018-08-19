@@ -1,13 +1,6 @@
-*.aux
-*.log
-*.out
-*.tex
-*.lst
 *.RData
 *.Rproj
 .Rproj.user
-!sds.tex
-!prelims.tex
 .*~
 .Rhistory
 .DS_Store
